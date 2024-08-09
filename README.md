@@ -47,9 +47,9 @@ This repository holds the setup and documentation of my home lab, I've built up 
 - Event Viewer: For monitoring system and security logs within Windows Server.
 - PerfMon: For monitoring performance metrics on the server.
 
-<h2Backup & Restore></h2>
-Windows Server Backup: Set up regular backups for your File Server, including shadow copies.
-Shadow Copy Client: Users can restore previous versions of files using the "Previous Versions" tab in Windows Explorer on client machines.
+<h2>Backup & Restore</h2>
+- Windows Server Backup: Set up regular backups for your File Server, including shadow copies.<br>
+- Shadow Copy Client: Users can restore previous versions of files using the "Previous Versions" tab in Windows Explorer on client machines.<br>.
 
 
 
