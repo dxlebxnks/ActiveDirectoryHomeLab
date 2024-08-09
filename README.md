@@ -43,9 +43,8 @@ I have set up several Home Active Directory labs in ProxMox, ESXi (VMWare), Virt
   
 <h2>Monitoring</h2>
 
-- Event Viewer
-- Performance Monitor
-- WireShark
+- Event Viewer: For monitoring system and security logs within Windows Server.
+- PerfMon: For monitoring performance metrics on the server.
   
 <p align="center">
 Launch the utility: <br/>
