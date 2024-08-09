@@ -25,8 +25,11 @@ I have set up several Home Active Directory labs in ProxMox, ESXi (VMWare), Virt
 
 <h2>Environments Used </h2>
 
-- <b>Windows Server 2019 - Virtual</b> (21H2)
-
+- Windows Server 2019 - Virtual (21H2)
+- Windows 10 Professional 22H2
+- Windows 11 Professional 22H2
+- Ubuntu
+  
 <h2>Monitoring</h2>
 
 - Event Viewer
