@@ -13,6 +13,7 @@ I have set up several Home Active Directory labs in ProxMox, ESXi (VMWare), Virt
 - <b>ProxMox</b>
 - <b>Windows Server 2019</b>
 - <b>Active Directory Domain Services (AD DS)y</b>
+- <b>Group Policy Management Console (GPMC)</b>
 
 <h2>Environments Used </h2>
 
