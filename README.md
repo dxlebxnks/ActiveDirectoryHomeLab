@@ -29,10 +29,10 @@ I have set up several Home Active Directory labs in ProxMox, ESXi (VMWare), Virt
   
 <h2>Environments Used </h2>
 
-- Windows Server 2019 - Virtual (21H2)
-- Windows 10 Professional 22H2
-- Windows 11 Professional 22H2
-- Ubuntu
+- Windows Server 2019 - Virtual (21H2) - Main OS
+- Windows 10 Professional - Virtual (22H2) - Workstations
+- Windows 11 Professional - Virtual (22H2) - Workstations
+- Ubuntu 24.04 LTS - Samba FS for file redudancy and to further Linux knowledge.
   
 <h2>Monitoring</h2>
 
