@@ -9,7 +9,7 @@ This repository holds the setup and documentation of my home lab, I've built up 
 <br />
 
 <h2> Hardware</h2>
-- <a href="https://support.hp.com/us-en/product/details/hp-z820-workstation/5225041">HP Z820</a> | 1x 2.00GHz Xeon E5-2620 | 16GB DDR3 | 1TB HDD | DVD-RW | Quadro K600<br>
+- <a href="https://support.hp.com/us-en/product/details/hp-z820-workstation/5225041">HP Z820 Server</a> | 1x 2.00GHz Xeon E5-2620 | 16GB DDR3 | 1TB HDD | DVD-RW | Quadro K600<br>
 - <a href="https://semiconductor.samsung.com/us/dram/module/rdimm/m393b2g70bh0-ck0/">Samsung 16GB 2Rx4 PC3-12800R DDR3 ECC REG Server RAM M393B2G70BH0-CK0</a> (x2)<br>
 - 4TB 3.5" HDD (x4) <br>
 - <a href="https://shop.kingston.com/products/datatraveler-exodia-usb-flash-drive?variant=39392789528768">Kingston 128GB DataTraveler Exodia SuperSpeed+ USB 3.1 (Gen 1) Flash Drive<a></a> for ProxMox VE UI <br>
