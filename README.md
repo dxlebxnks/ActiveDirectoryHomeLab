@@ -28,6 +28,11 @@ I have set up several Home Active Directory labs in ProxMox, ESXi (VMWare), Virt
 - Shadow Copies - To create point-in-time copies of files, allowing users to restore previous versions.
 - Powershell - Used for automating tasks and to configure Shadow Copies
 - Samba - To share files between Linux servers and Windows PCs
+
+<h2>Networking Utilities</h2>
+- Wireshark: For network packet analysis, useful in troubleshooting.<br>
+- Putty: For SSH access, especially if you are working with Linux servers in your lab.<br>
+- pfSense: A firewall/router software, sometimes used for managing network traffic within the lab.<br>
   
 <h2>Environments Used </h2>
 
