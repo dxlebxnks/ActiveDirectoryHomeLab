@@ -11,6 +11,7 @@ I have set up several Home Active Directory labs in ProxMox, ESXi (VMWare), Virt
 - HP Z820 | 1x 2.00GHz Xeon E5-2620 | 16GB DDR3 | 1TB HDD | DVD-RW | Quadro K600<br>
 - (x2) Samsung 16GB 2Rx4 PC3-12800R DDR3 ECC REG Server RAM M393B2G70BH0-CK0<br>
 - (x4) 4TB 3.5" HDD <br>
+- HAMTYSAN Upgraded Raspberry Pi Screen Monitor, 7 Inch - For onsite  maintenance of HP Z820 server
 
 <h2>Languages and Utilities Used</h2>
 
