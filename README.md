@@ -4,14 +4,15 @@
 
 <h2>Description</h2>
 
-I set up a Home Active Directory lab using a virtual server installed on Proxmox, which is hosted on a physical HP Z820 workstation. 
+I have set up several Home Active Directory labs in ProxMox, ESXi (VMWare), VirtualBox and Hyper-V. Below is the latest setup using ProxMox.
 <br />
 
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Windows Server 2019</b> 
-- <b>Active Directory</b>
+- <b>ProxMox</b>
+- <b>Windows Server 2019</b>
+- <b>Active Directory Domain Services (AD DS)y</b>
 
 <h2>Environments Used </h2>
 
