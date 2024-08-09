@@ -12,7 +12,7 @@ This repository holds the setup and documentation of my home lab, I've built up 
 - HP Z820 | 1x 2.00GHz Xeon E5-2620 | 16GB DDR3 | 1TB HDD | DVD-RW | Quadro K600<br>
 - (x2) Samsung 16GB 2Rx4 PC3-12800R DDR3 ECC REG Server RAM M393B2G70BH0-CK0<br>
 - (x4) 4TB 3.5" HDD <br>
-- Kingston 128GB DataTraveler Exodia SuperSpeed+ USB 3.1 (Gen 1) Flash Drive for ProxMox VE UI
+- Kingston 128GB DataTraveler Exodia SuperSpeed+ USB 3.1 (Gen 1) Flash Drive for ProxMox VE UI <br>
 - HAMTYSAN Upgraded Raspberry Pi Screen Monitor, 7 Inch - For onsite  maintenance of HP Z820 server
 
 <h2>Languages and Utilities Used</h2>
@@ -50,7 +50,7 @@ This repository holds the setup and documentation of my home lab, I've built up 
 <h2>Backup & Restore</h2>
 - Windows Server Backup: Set up regular backups for your File Server, including shadow copies.<br>
 - Shadow Copy Client: Users can restore previous versions of files using the "Previous Versions" tab in Windows Explorer on client machines.<br>
-- iDrive - Cloud backup and storage installed on Windows FS
+- <a href="https://www.idrive.com/">iDrive</a> - Cloud backup and storage installed on Windows FS
 
 
 
