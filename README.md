@@ -26,7 +26,7 @@ I have set up several Home Active Directory labs in ProxMox, ESXi (VMWare), Virt
 - RSAT
 - File Server Role - Dedicated to managing file shares and storage within my network
 - Shadow Copies - To create point-in-time copies of files, allowing users to restore previous versions.
-- Powershell - used for automating tasks and to configure Shadow Copies
+- Powershell - Used for automating tasks and to configure Shadow Copies
 - Samba - To share files between Linux servers and Windows PCs
   
 <h2>Environments Used </h2>
@@ -39,7 +39,8 @@ I have set up several Home Active Directory labs in ProxMox, ESXi (VMWare), Virt
 <h2>Monitoring</h2>
 
 - Event Viewer
-- Reliability Monitor
+- Performance Monitor
+- WireShark
 - 
 <p align="center">
 Launch the utility: <br/>
