@@ -4,7 +4,8 @@
 
 <h2>Description</h2>
 
-I have set up several Home Active Directory labs in ProxMox, ESXi (VMWare), VirtualBox and Hyper-V. Below is the latest setup using ProxMox.
+This repository holds the setup and documentation of my home lab, I've built up my lab from YouTube guides and other free online documentation.
+
 <br />
 
 <h2> Hardware</h2>
