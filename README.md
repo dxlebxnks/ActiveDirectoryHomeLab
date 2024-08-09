@@ -49,7 +49,8 @@ This repository holds the setup and documentation of my home lab, I've built up 
 
 <h2>Backup & Restore</h2>
 - Windows Server Backup: Set up regular backups for your File Server, including shadow copies.<br>
-- Shadow Copy Client: Users can restore previous versions of files using the "Previous Versions" tab in Windows Explorer on client machines.<br>.
+- Shadow Copy Client: Users can restore previous versions of files using the "Previous Versions" tab in Windows Explorer on client machines.<br>
+- iDrive - Cloud backup and storage installed on Windows FS
 
 
 
