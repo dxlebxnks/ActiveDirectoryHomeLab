@@ -46,7 +46,7 @@ I have set up several Home Active Directory labs in ProxMox, ESXi (VMWare), Virt
 - Event Viewer
 - Performance Monitor
 - WireShark
-- 
+  
 <p align="center">
 Launch the utility: <br/>
 <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
