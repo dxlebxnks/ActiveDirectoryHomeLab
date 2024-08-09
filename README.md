@@ -14,15 +14,19 @@ I have set up several Home Active Directory labs in ProxMox, ESXi (VMWare), Virt
 
 <h2>Languages and Utilities Used</h2>
 
-- ProxMox
-- Windows Server 2019
-- Active Directory Domain Services (AD DS)
-- Group Policy Management Console (GPMC)
+- ProxMox - My current virtualization platform of choice
+- Windows Server 2019 - Main OS for AD DS
+- Active Directory Domain Services (AD DS) - To create users and computers
+- Group Policy Management Console (GPMC) - To create policies within the environment
 - LDAP (Lightweight Directory Access Protocol)
-- DNS
-- DHCP
+- DNS to resolve hostnames within my network
+- DHCP - provides IP address to all of my devices within my lab
 - RSAT
-
+- File Server Role - Dedicated to managing file shares and storage within my network
+- Shadow Copies - To create point-in-time copies of files, allowing users to restore previous versions.
+- Powershell - used for automating tasks and to configure Shadow Copies
+- Samba - To share files between Linux servers and Windows PCs
+  
 <h2>Environments Used </h2>
 
 - Windows Server 2019 - Virtual (21H2)
