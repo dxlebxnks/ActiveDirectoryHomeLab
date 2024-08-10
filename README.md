@@ -17,35 +17,47 @@ This repository holds the setup and documentation of my home lab, I've built up 
 
 <h2>Languages and Utilities Used</h2>
 
-- ProxMox - My current virtualization platform of choice
-- Windows Server 2019 - Main OS for AD DS
-- Active Directory Domain Services (AD DS) - To create users and computers
-- Group Policy Management Console (GPMC) - To create policies within the environment
-- LDAP (Lightweight Directory Access Protocol)
-- DNS to resolve hostnames within my network
-- DHCP - provides IP address to all of my devices within my lab
-- RSAT
-- File Server Role - Dedicated to managing file shares and storage within my network
-- Shadow Copies - To create point-in-time copies of files, allowing users to restore previous versions.
-- Powershell - Used for automating tasks and to configure Shadow Copies
-- Samba - To share files between Linux servers and Windows PCs
+<h2>Utilities</h2>
+<ul>
+  <li><a href="https://www.proxmox.com/proxmox-ve">ProxMox</a>: My current virtualization platform of choice.</li>
+  <li><a href="https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2019">Windows Server 2019</a>: Main OS for Active Directory Domain Services (AD DS).</li>
+  <li><a href="https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/active-directory-domain-services-overview">Active Directory Domain Services (AD DS)</a>: Used to create users and computers.</li>
+  <li><a href="https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/gpmc">Group Policy Management Console (GPMC)</a>: Tool for creating and managing policies within the environment.</li>
+  <li><a href="https://ldap.com/ldap-directory/">LDAP (Lightweight Directory Access Protocol)</a>: Protocol for accessing and maintaining distributed directory information services.</li>
+  <li><a href="https://www.cloudflare.com/learning/dns/what-is-dns/">DNS (Domain Name System)</a>: Resolves hostnames within my network.</li>
+  <li><a href="https://docs.microsoft.com/en-us/windows-server/networking/technologies/dhcp/dhcp-top">DHCP (Dynamic Host Configuration Protocol)</a>: Provides IP addresses to all devices within my lab.</li>
+  <li><a href="https://docs.microsoft.com/en-us/windows-server/remote/remote-server-administration-tools">RSAT (Remote Server Administration Tools)</a>: Tools for managing roles and features on remote servers.</li>
+  <li><a href="https://docs.microsoft.com/en-us/windows-server/storage/file-server/file-server-role">File Server Role</a>: Dedicated to managing file shares and storage within my network.</li>
+  <li><a href="https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/vssadmin">Shadow Copies</a>: Creates point-in-time copies of files, allowing users to restore previous versions.</li>
+  <li><a href="https://docs.microsoft.com/en-us/powershell/scripting/overview">PowerShell</a>: Used for automating tasks and configuring Shadow Copies.</li>
+  <li><a href="https://www.samba.org/">Samba</a>: Allows file sharing between Linux servers and Windows PCs.</li>
+</ul>
+
 
 <h2>Networking Utilities</h2>
-- <a href="https://www.wireshark.org/">Wireshark</a>: For network packet analysis, useful in troubleshooting.<br>
-- <a href="https://www.putty.org/">Putty</a>: For SSH access to my Ubuntu / Samba file servers.<br>
-- <a href="https://opnsense.org/">Opnsense</a>: A firewall/router software, sometimes used for managing network traffic within the lab.<br>
+<ul>
+  <li><a href="https://www.wireshark.org/">Wireshark</a>: For network packet analysis, useful in troubleshooting.</li>
+  <li><a href="https://www.putty.org/">Putty</a>: For SSH access to my Ubuntu / Samba file servers.</li>
+  <li><a href="https://opnsense.org/">Opnsense</a>: A firewall/router software, sometimes used for managing network traffic within the lab.</li>
+</ul>
+
   
 <h2>Environments Used </h2>
 
-- Windows Server 2019 - Virtual (21H2) - Main OS
-- Windows 10 Professional - Virtual (22H2) - Workstations
-- Windows 11 Professional - Virtual (22H2) - Workstations
-- Ubuntu 24.04 LTS - Samba FS for file redudancy and to further Linux knowledge.
+<ul>
+  <li><a href="https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2019">Windows Server 2019 - Virtual (21H2)</a>: Main OS.</li>
+  <li><a href="https://www.microsoft.com/en-us/windows/get-windows-10">Windows 10 Professional - Virtual (22H2)</a>: Workstations.</li>
+  <li><a href="https://www.microsoft.com/en-us/windows/get-windows-11">Windows 11 Professional - Virtual (22H2)</a>: Workstations.</li>
+  <li><a href="https://ubuntu.com/download/server">Ubuntu 24.04 LTS</a>: Samba FS for file redundancy and to further Linux knowledge.</li>
+</ul>
   
-<h2>Monitoring</h2>
 
-- Event Viewer: For monitoring system and security logs within Windows Server.
-- PerfMon: For monitoring performance metrics on the server.
+<h2>Monitoring Tools</h2>
+<ul>
+  <li><a href="https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-viewer-overview">Event Viewer</a>: For monitoring system and security logs within Windows Server.</li>
+  <li><a href="https://docs.microsoft.com/en-us/windows/client-management/performance-monitor">PerfMon</a>: For monitoring performance metrics on the server.</li>
+</ul>
+
 
 <h2>Backup & Restore</h2>
 - Windows Server Backup: Set up regular backups for your File Server, including shadow copies.<br>
