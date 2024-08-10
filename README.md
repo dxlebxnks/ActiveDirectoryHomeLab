@@ -54,8 +54,8 @@ This repository holds the setup and documentation of my home lab, I've built up 
 
 <h2>Monitoring Tools</h2>
 <ul>
-  <li><a href="https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-viewer-overview">Event Viewer</a>: For monitoring system and security logs within Windows Server.</li>
-  <li><a href="https://docs.microsoft.com/en-us/windows/client-management/performance-monitor">PerfMon</a>: For monitoring performance metrics on the server.</li>
+  <li><a href="https://learn.microsoft.com/en-us/shows/inside/event-viewer">Event Viewer</a>: For monitoring system and security logs within Windows Server.</li>
+  <li><a href="https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/administration/tools-monitor-performance-counters-and-events">PerfMon</a>: For monitoring performance metrics on the server.</li>
 </ul>
 
 
