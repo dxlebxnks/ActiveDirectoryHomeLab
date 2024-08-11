@@ -10,7 +10,7 @@ This repository holds the setup and documentation of my home lab, I've built up 
 - 8.10.24 <br>
 - Added Windows Server Core VM and created Lab.local domain <br>
 - Added DNS Server Tools and Remote Remote Sever tools including AD DS and AD LDS Tools to my Windows Server 2022 File Server VM to be able to administer domain with GUI. <br>
-- Installed OpenSSH on both servers. Tested connectivity to both with Putty. <br>
+- Installed OpenSSH on both servers. Tested connectivity to both with PuTTY. <br>
    
 <br />
 
