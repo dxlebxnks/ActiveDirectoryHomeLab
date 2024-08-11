@@ -6,6 +6,7 @@
 
 This repository holds the setup and documentation of my home lab, I've built up my lab from YouTube guides and other free online documentation.
 
+- 8.10.24 - Adding Windows Server Core as an AD
 <br />
 
 <h2> Hardware</h2>
