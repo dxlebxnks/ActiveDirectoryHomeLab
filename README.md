@@ -47,7 +47,7 @@ This repository holds the setup and documentation of my home lab, I've built up 
 <h2>Networking Utilities</h2>
 <ul>
   <li><a href="https://www.wireshark.org/">Wireshark</a>: For network packet analysis, useful in troubleshooting.</li>
-  <li><a href="https://www.putty.org/">Putty</a>: For SSH access to my Ubuntu / Samba file servers.</li>
+  <li><a href="https://www.putty.org/">PuTTY</a>: For SSH access to my Ubuntu / Samba file servers.</li>
   <li><a href="https://opnsense.org/">Opnsense</a>: A firewall/router software, sometimes used for managing network traffic within the lab.</li>
 </ul>
 
