@@ -40,7 +40,7 @@ This repository holds the setup and documentation of my home lab, I've built up 
   <li><a href="https://docs.microsoft.com/en-us/windows-server/storage/file-server/file-server-role">File Server Role</a>: Dedicated to managing file shares and storage within my network.</li>
   <li><a href="https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/vssadmin">Shadow Copies</a>: Creates point-in-time copies of files, allowing users to restore previous versions.</li>
   <li><a href="https://docs.microsoft.com/en-us/powershell/scripting/overview">PowerShell</a>: Used for automating tasks and configuring Shadow Copies.</li>
-  <li><a href="https://www.samba.org/">Samba</a>: Allows file sharing between Linux servers and Windows PCs.</li>
+  <li><a href="https://www.samba.org/">Samba</a>: Allows file sharing between Linux servers and Windows PCs. See my <a href="https://github.com/dxlebxnks/Samba-Server/blob/main/README.md">Samba Github page</a></li>
 </ul>
 
 
